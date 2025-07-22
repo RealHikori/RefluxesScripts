@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/grow-a-garden-ctrl/PetGenerator/refs/heads/main/main.lua"))();
